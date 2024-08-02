@@ -2,7 +2,7 @@ Name	Muhammad Arsalan Ayaz Azhar
 S/O	Azhar Iqbal
 Roll No	PIAIC200939
 Batch	Batch 47
-City	Faisalabad
+City	Lahore
 Gender	male
 Course	Certified Cloud Applied Generative AI Engineer
 Email	arsalanayaz821@gmail.com
